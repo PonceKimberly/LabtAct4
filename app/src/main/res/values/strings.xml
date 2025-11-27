@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOGIN</string>
+
+    <!-- Dashboard strings -->
+    <string name="dashboard_title">UniMart Dashboard</string>
+    <string name="browse_products">Browse Products</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_profile">My Profile</string>
+    <string name="settings">Settings</string>
+
+    <!-- Login/Register strings -->
+    <string name="welcome_to">Welcome to</string>
+    <string name="unimart">UniMart</string>
+    <string name="your_student_marketplace">Your Student Marketplace</string>
+    <string name="example_email">example@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="login_text">Sign in</string>
+</resources>
